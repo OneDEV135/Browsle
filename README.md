@@ -2,6 +2,7 @@
 ## Browsle - The simple browser
 This is just a simple python browser. Hopefully one day it will become a great looking browser. 
 
+# Updates
 ## 1.0 - The first version
 ![image](https://user-images.githubusercontent.com/109425063/213868896-2cb9116d-492e-4630-a6e3-b04d6f4ea29f.png)
 - Google for homepage
